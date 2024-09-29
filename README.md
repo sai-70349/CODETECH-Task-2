@@ -54,4 +54,24 @@ User Management: Develop a system to manage multiple user codes with varying acc
 - **VCD File:** Generated VCD file containing waveform data for the simulation.
 - **Documentation:** A detailed report outlining design specifications, state diagrams, test cases, and simulation results.
 
+### Challenges Faced
+
+- **State Management:** Complexity in designing an efficient FSM for managing state transitions.
+- **User Input Handling:** Accurately capturing and debouncing user inputs to avoid erroneous entries.
+- **Simulation and Debugging:** Difficulty in debugging FSM logic during simulation.
+- **Security Considerations:** Ensuring the system remains secure while being user-friendly.
+- **Scalability:** Initial oversight in planning for future feature expansions.
+  
+### Applications
+
+- **Home Security:** Securing residential properties and controlling access for family and guests.
+- **Office Access Control:** Restricting access to sensitive areas for authorized personnel only.
+- **Safes and Lockers:** Providing secure access to valuables or sensitive information.
+- **Automated Entry Systems:** Integrating into automated entry systems for buildings.
+- **Smart Home Integration:** Being part of smart home systems for remote monitoring and control.
+- **Industrial Applications:** Securing access to machinery and sensitive areas in manufacturing facilities.
+
+### Conclusion
+The Digital Lock System project effectively demonstrates the application of FSMs in digital design, providing a practical solution for secure access control. The implementation and testing phases validate the system's functionality, while future enhancements present opportunities for further development in security technology.
+
 
